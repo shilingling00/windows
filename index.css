@@ -6,6 +6,9 @@
 }
 .test{
     color: bisque;
-    background:'#fff';
+    background:#fff;
     font-size:20px;
+}
+span{
+    color: aquamarine;
 }
